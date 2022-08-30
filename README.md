@@ -1,0 +1,3 @@
+**Hello! I'm Ian Smith, a Computer Science student from Towson, MD.**
+
+**I have over ten years of experience programming in Java, C++, HTML, JS, Node, Python, VB, .NET, and C#. Through my time as the Vice President of Towson University's Software Engineering Club, Lead Organizer of Towson University's first-ever Hackathon, TigerHacks, and my internship experiences over the past few years, I've learned how to effectively communicate my ideas and opinions in both one-on-one and group settings. I pride myself on my integrity and work ethic and strive for excellence in all I do. In my free time, you can probably find me enjoying the local state parks or practicing my game development skills.**
